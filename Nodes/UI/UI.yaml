@@ -230,4 +230,37 @@ Children:
       Type: DynamicLink
       DataType: NodePath
       Value: "/Objects/Collaboration2@BrowseName"
+  - Name: Button1
+    Type: Button
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":"Auto Destrucción"}
+    - Name: LeftMargin
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 128.0
+    - Name: TopMargin
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 166.0
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 282.0
+    - Name: Height
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 114.0
+    - Name: FontSize
+      Type: BaseDataVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 30.0
 - File: Screens/Screens.yaml
