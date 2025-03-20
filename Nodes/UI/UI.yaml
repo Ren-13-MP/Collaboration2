@@ -263,4 +263,12 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 30.0
+  - Name: Button2
+    Type: Button
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":"Button2"}
 - File: Screens/Screens.yaml
