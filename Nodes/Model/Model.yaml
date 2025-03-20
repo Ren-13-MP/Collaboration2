@@ -1,2 +1,12 @@
 Name: Model
 Type: ModelCategoryFolder
+Children:
+- Name: Motor_Control
+  Type: BaseObjectType
+  Children:
+  - Name: Power
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: Run
+    Type: BaseDataVariableType
+    DataType: Boolean
