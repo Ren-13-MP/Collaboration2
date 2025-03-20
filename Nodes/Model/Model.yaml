@@ -1,7 +1,7 @@
 Name: Model
 Type: ModelCategoryFolder
 Children:
-- Name: Motor_Control
+- Name: Motor_Control_PID
   Type: BaseObjectType
   Children:
   - Name: Power
