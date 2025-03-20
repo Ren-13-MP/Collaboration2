@@ -5,3 +5,7 @@ Children:
   Id: g=dd893d84b5e5c9974b5b2310c5d122c5
   Supertype: Screen
   ReferenceType: HasComponent
+- Name: Saludos_Mario
+  Id: g=a8a913131261b234ff74e9cba337bd02
+  Supertype: Screen
+  ReferenceType: HasComponent
