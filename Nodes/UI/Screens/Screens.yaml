@@ -9,3 +9,7 @@ Children:
   Id: g=a8a913131261b234ff74e9cba337bd02
   Supertype: Screen
   ReferenceType: HasComponent
+- Name: Ya_Llego_la_Comida
+  Id: g=4a1bc0cddbfdaa2e94b68531550bcf9d
+  Supertype: Screen
+  ReferenceType: HasComponent
